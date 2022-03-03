@@ -27,4 +27,4 @@
   <a href="https://twitter.com/lucaspdsg"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div><br>
 
-<p align="right"><i>Weninger aber besser 🚀🚀</p>
+<p align="right"><i>Weniger aber besser! 🚀🚀</p>
