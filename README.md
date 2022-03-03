@@ -27,4 +27,10 @@
   <a href="https://twitter.com/lucaspdsg"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div><br>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <p align="right"><i>Weniger aber besser! 🚀🚀</p>
