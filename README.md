@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## Tecnologias que utlizo 🛠
+## Tecnologias que utilizo 🛠
 
 <div align="center" valign="top"><br>
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
