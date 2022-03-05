@@ -1,5 +1,5 @@
 <h1 align="left">Olá, eu sou o Lucas Pinheiro! <img src="https://c.tenor.com/sxuSkqFn82oAAAAi/hello-joypixels.gif" width="30px"></h1>
-<p>Tenho 18 anos, resido em Manaus-AM. Atualmente estudo desenvolvimento web bem como design gráfico, as duas áreas pelas quais sou apaixonado.</p>
+<p>Tenho 18 anos, resido em Manaus-AM. Atualmente estudo Desenvolvimento Web bem como Design Gráfico, as duas áreas pelas quais sou apaixonado.</p>
 <p>Adoro ensinar e compartilhar conhecimento, você pode conferir a minha jornada de aprendizagem aqui pelo Github ou pelo Linkedln. Nesses locais irei compartilhar os conhecimentos adquiridos como também os projetos desenvolvidos.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucaspdsg&color=yellow" alt="Profile views" /> </p>
 
